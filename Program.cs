@@ -20,7 +20,7 @@ namespace ExerciceLidlet
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseStartup<Startup>().UseUrls("https://localhost:5050") ;
+                    webBuilder.UseStartup<Startup>().UseUrls("http://127.0.0.1:5050") ;
                 });
     }
 }

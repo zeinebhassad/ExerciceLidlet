@@ -6562,26 +6562,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zeineb\\.nuget\\packages\\": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zeineb\\source\\repos\\ExerciceLidlet\\ExerciceLidlet.csproj",
+      "projectUniqueName": "/var/netbackend/ExerciceLidlet/ExerciceLidlet.csproj",
       "projectName": "ExerciceLidlet",
-      "projectPath": "C:\\Users\\zeineb\\source\\repos\\ExerciceLidlet\\ExerciceLidlet.csproj",
-      "packagesPath": "C:\\Users\\zeineb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zeineb\\source\\repos\\ExerciceLidlet\\obj\\",
+      "projectPath": "/var/netbackend/ExerciceLidlet/ExerciceLidlet.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/var/netbackend/ExerciceLidlet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\zeineb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6637,7 +6635,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       }
     }
   }
