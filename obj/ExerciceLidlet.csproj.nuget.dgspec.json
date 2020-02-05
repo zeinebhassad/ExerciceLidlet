@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zeineb\\source\\repos\\ExerciceLidlet\\ExerciceLidlet\\ExerciceLidlet.csproj": {}
+    "C:\\Users\\zeineb\\source\\repos\\ExerciceLidlet\\ExerciceLidlet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zeineb\\source\\repos\\ExerciceLidlet\\ExerciceLidlet\\ExerciceLidlet.csproj": {
+    "C:\\Users\\zeineb\\source\\repos\\ExerciceLidlet\\ExerciceLidlet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zeineb\\source\\repos\\ExerciceLidlet\\ExerciceLidlet\\ExerciceLidlet.csproj",
+        "projectUniqueName": "C:\\Users\\zeineb\\source\\repos\\ExerciceLidlet\\ExerciceLidlet.csproj",
         "projectName": "ExerciceLidlet",
-        "projectPath": "C:\\Users\\zeineb\\source\\repos\\ExerciceLidlet\\ExerciceLidlet\\ExerciceLidlet.csproj",
+        "projectPath": "C:\\Users\\zeineb\\source\\repos\\ExerciceLidlet\\ExerciceLidlet.csproj",
         "packagesPath": "C:\\Users\\zeineb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zeineb\\source\\repos\\ExerciceLidlet\\ExerciceLidlet\\obj\\",
+        "outputPath": "C:\\Users\\zeineb\\source\\repos\\ExerciceLidlet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zeineb\\AppData\\Roaming\\NuGet\\NuGet.Config",
